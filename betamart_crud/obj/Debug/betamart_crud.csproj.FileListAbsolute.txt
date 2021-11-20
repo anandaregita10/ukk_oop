@@ -1,0 +1,29 @@
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\bin\Debug\betamart_crud.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\bin\Debug\betamart_crud.exe
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\bin\Debug\betamart_crud.pdb
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\obj\Debug\betamart_crud.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\obj\Debug\betamart_crud.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\obj\Debug\betamart_crud.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\obj\Debug\betamart_crud.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\obj\Debug\betamart_crud.exe
+c:\users\asus\documents\visual studio 2012\Projects\betamart_crud\betamart_crud\obj\Debug\betamart_crud.pdb
+D:\UKK_OOP-main\betamart_crud\bin\Debug\betamart_crud.exe.config
+D:\UKK_OOP-main\betamart_crud\bin\Debug\betamart_crud.exe
+D:\UKK_OOP-main\betamart_crud\bin\Debug\betamart_crud.pdb
+D:\UKK_OOP-main\betamart_crud\obj\Debug\betamart_crud.csproj.AssemblyReference.cache
+D:\UKK_OOP-main\betamart_crud\obj\Debug\betamart_crud.Form1.resources
+D:\UKK_OOP-main\betamart_crud\obj\Debug\betamart_crud.Properties.Resources.resources
+D:\UKK_OOP-main\betamart_crud\obj\Debug\betamart_crud.csproj.GenerateResource.cache
+D:\UKK_OOP-main\betamart_crud\obj\Debug\betamart_crud.csproj.CoreCompileInputs.cache
+D:\UKK_OOP-main\betamart_crud\obj\Debug\betamart_crud.exe
+D:\UKK_OOP-main\betamart_crud\obj\Debug\betamart_crud.pdb
+D:\UKK_OOP\betamart_crud\bin\Debug\betamart_crud.exe.config
+D:\UKK_OOP\betamart_crud\bin\Debug\betamart_crud.exe
+D:\UKK_OOP\betamart_crud\bin\Debug\betamart_crud.pdb
+D:\UKK_OOP\betamart_crud\obj\Debug\betamart_crud.csproj.AssemblyReference.cache
+D:\UKK_OOP\betamart_crud\obj\Debug\betamart_crud.Form1.resources
+D:\UKK_OOP\betamart_crud\obj\Debug\betamart_crud.Properties.Resources.resources
+D:\UKK_OOP\betamart_crud\obj\Debug\betamart_crud.csproj.GenerateResource.cache
+D:\UKK_OOP\betamart_crud\obj\Debug\betamart_crud.csproj.CoreCompileInputs.cache
+D:\UKK_OOP\betamart_crud\obj\Debug\betamart_crud.exe
+D:\UKK_OOP\betamart_crud\obj\Debug\betamart_crud.pdb
